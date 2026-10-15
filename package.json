@@ -1,0 +1,23 @@
+{
+  "name": "gorev-ve-proje-yonetim-sistemi-api-gelistirme-projesi",
+  "version": "1.0.0",
+  "description": "TaskFlow - Node.js ve Express.js ile geliştirilmiş görev yönetimi REST API'si",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "crud"
+  ],
+  "author": "Elif Sude Topçu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
