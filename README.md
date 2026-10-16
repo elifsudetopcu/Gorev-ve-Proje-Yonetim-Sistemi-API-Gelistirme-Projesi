@@ -1,4 +1,4 @@
-# Görev ve Proje Yönetim Sistemi API (TaskFlow API)
+# Görev ve Proje Yönetim Sistemi API 
 
 Node.js ve Express.js kullanılarak geliştirilen, görevleri yönetmek için tasarlanmış bir REST API projesidir. Proje; görev oluşturma, listeleme, görüntüleme, güncelleme ve silme (CRUD) işlemlerini destekler.
 
